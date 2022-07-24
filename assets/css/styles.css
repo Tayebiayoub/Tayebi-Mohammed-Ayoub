@@ -53,7 +53,7 @@ body {
  
   
 }
-.social {
+.social a{
 color: var(--hue-color);
 }
 
