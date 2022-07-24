@@ -54,7 +54,7 @@ body {
   
 }
 .social {
-color: hsl(var(--hue-color), 89%, 60%);
+color: var(--hue-color);
 }
 
 h1, h2, p {
