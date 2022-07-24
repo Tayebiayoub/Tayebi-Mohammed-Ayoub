@@ -54,7 +54,7 @@ body {
   
 }
 .social a{
-color: var(--hue-color);
+color: black;
 }
 
 h1, h2, p {
